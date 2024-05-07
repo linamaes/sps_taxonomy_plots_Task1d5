@@ -1,0 +1,394 @@
+ScientificName,AphiaID,Match type,ScientificName,Taxon status,AphiaID_accepted,ScientificName_accepted,Kingdom,Phylum,Class,Order,Family,Genus,Subgenus,Species,Subspecies,isMarine,isBrackish,isFresh,isTerrestrial
+Caretta caretta,137205,exact,Caretta caretta,accepted,137205,Caretta caretta,Animalia,Chordata,,Testudines,Cheloniidae,Caretta,,caretta,,1,,,
+Chelonia mydas,137206,exact,Chelonia mydas,accepted,137206,Chelonia mydas,Animalia,Chordata,,Testudines,Cheloniidae,Chelonia,,mydas,,1,,,
+Dermochelys coriacea,137209,exact,Dermochelys coriacea,accepted,137209,Dermochelys coriacea,Animalia,Chordata,,Testudines,Dermochelyidae,Dermochelys,,coriacea,,1,,,
+Actitis hypoleucos,212603,exact,Actitis hypoleucos,accepted,212603,Actitis hypoleucos,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,,hypoleucos,,1,,1,1
+Alca torda,137128,exact,Alca torda,accepted,137128,Alca torda,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Alca,,torda,,1,,,1
+Anas acuta,158939,exact,Anas acuta,accepted,158939,Anas acuta,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,,acuta,,0,,1,1
+Anas clypeata,158941,exact,Anas clypeata,unaccepted,1461476,Spatula clypeata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,,clypeata,,0,,1,1
+Anas crecca,158943,exact,Anas crecca,accepted,158943,Anas crecca,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,,crecca,,1,1,1,1
+Anas penelope,159168,exact,Anas penelope,unaccepted,1464521,Mareca penelope,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,,penelope,,0,,1,1
+Anas platyrhynchos,148791,exact,Anas platyrhynchos,accepted,148791,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,,platyrhynchos,,1,1,1,1
+Anser albifrons,159159,exact,Anser albifrons,accepted,159159,Anser albifrons,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,,albifrons,,0,,1,1
+Anser anser,416682,exact,Anser anser,accepted,416682,Anser anser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,,anser,,1,1,1,1
+Arenaria interpres,147431,exact,Arenaria interpres,accepted,147431,Arenaria interpres,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,,interpres,,1,,,1
+Aythya ferina,232037,exact,Aythya ferina,accepted,232037,Aythya ferina,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,,ferina,,0,,1,1
+Aythya fuligula,159164,exact,Aythya fuligula,accepted,159164,Aythya fuligula,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,,fuligula,,0,,1,1
+Aythya marila,159172,exact,Aythya marila,accepted,159172,Aythya marila,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,,marila,,1,,,1
+Branta bernicla,159175,exact,Branta bernicla,accepted,159175,Branta bernicla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,,bernicla,,1,1,,1
+Branta canadensis,159176,exact,Branta canadensis,accepted,159176,Branta canadensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,,canadensis,,0,,1,1
+Branta leucopsis,159177,exact,Branta leucopsis,accepted,159177,Branta leucopsis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,,leucopsis,,0,,1,1
+Bucephala clangula,159197,exact,Bucephala clangula,accepted,159197,Bucephala clangula,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,,clangula,,0,,1,1
+Bulweria bulwerii,137193,exact,Bulweria bulwerii,accepted,137193,Bulweria bulwerii,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Bulweria,,bulwerii,,1,,,1
+Calidris alba,159084,exact,Calidris alba,accepted,159084,Calidris alba,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,,alba,,1,,,1
+Calidris alpina,159047,exact,Calidris alpina,accepted,159047,Calidris alpina,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,,alpina,,1,1,1,1
+Calidris canutus,147433,exact,Calidris canutus,accepted,147433,Calidris canutus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,,canutus,,1,,,1
+Calidris ferruginea,159049,exact,Calidris ferruginea,accepted,159049,Calidris ferruginea,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,,ferruginea,,1,,,1
+Calidris maritima,159052,exact,Calidris maritima,accepted,159052,Calidris maritima,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,,maritima,,1,,,1
+Calonectris borealis,1348497,exact,Calonectris borealis,accepted,1348497,Calonectris borealis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,,borealis,,1,,,1
+Calonectris diomedea,137194,exact,Calonectris diomedea,accepted,137194,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,,diomedea,,1,0,0,1
+Calonectris diomedea,137194,exact,Calonectris diomedea,accepted,137194,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,,diomedea,,1,0,0,1
+Calonectris diomedea,137194,exact,Calonectris diomedea,accepted,137194,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,,diomedea,,1,0,0,1
+Cepphus grylle,137130,exact,Cepphus grylle,accepted,137130,Cepphus grylle,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,,grylle,,1,,,1
+Charadrius alexandrinus,212611,exact,Charadrius alexandrinus,accepted,212611,Charadrius alexandrinus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,,alexandrinus,,1,,,1
+Charadrius hiaticula,212619,exact,Charadrius hiaticula,accepted,212619,Charadrius hiaticula,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,,hiaticula,,1,1,1,1
+Chlidonias niger,137137,exact,Chlidonias niger,accepted,137137,Chlidonias niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chlidonias,,niger,,1,,1,1
+Clangula hyemalis,137071,exact,Clangula hyemalis,accepted,137071,Clangula hyemalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Clangula,,hyemalis,,1,,,1
+Cygnus bewickii,1037309,exact,Cygnus bewickii,accepted,1037309,Cygnus bewickii,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,,bewickii,,0,,1,1
+Cygnus columbianus,159088,exact,Cygnus columbianus,accepted,159088,Cygnus columbianus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,,columbianus,,0,,1,1
+Cygnus cygnus,159089,exact,Cygnus cygnus,accepted,159089,Cygnus cygnus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,,cygnus,,0,,1,1
+Cygnus olor,159090,exact,Cygnus olor,accepted,159090,Cygnus olor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,,olor,,0,,1,1
+Egretta garzetta,159115,exact,Egretta garzetta,accepted,159115,Egretta garzetta,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Egretta,,garzetta,,1,,1,1
+Fratercula arctica,137131,exact,Fratercula arctica,accepted,137131,Fratercula arctica,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Fratercula,,arctica,,1,,,1
+Fulica atra,232054,exact,Fulica atra,accepted,232054,Fulica atra,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,,atra,,0,0,1,1
+Fulmarus glacialis,137195,exact,Fulmarus glacialis,accepted,137195,Fulmarus glacialis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Fulmarus,,glacialis,,1,,,1
+Fulmarus glacialis,137195,exact,Fulmarus glacialis,accepted,137195,Fulmarus glacialis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Fulmarus,,glacialis,,1,,,1
+Gavia arctica,137186,exact,Gavia arctica,accepted,137186,Gavia arctica,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,,arctica,,1,,,1
+Gavia sp.,137057,exact,Gavia,accepted,137057,Gavia,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,,,,1,1,1,1
+Gavia stellata,137188,exact,Gavia stellata,accepted,137188,Gavia stellata,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,,stellata,,1,,,1
+Gelochelidon nilotica,148798,exact,Gelochelidon nilotica,accepted,148798,Gelochelidon nilotica,Animalia,Chordata,Aves,Charadriiformes,Laridae,Gelochelidon,,nilotica,,1,,,1
+Haematopus ostralegus,147436,exact,Haematopus ostralegus,accepted,147436,Haematopus ostralegus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Haematopus,,ostralegus,,1,,,1
+Haliaeetus albicilla,232053,exact,Haliaeetus albicilla,accepted,232053,Haliaeetus albicilla,Animalia,Chordata,Aves,Falconiformes,Accipitridae,Haliaeetus,,albicilla,,1,1,1,1
+Hydrobates castro,,,,,,,,,,,,,,,,,,,
+Hydrobates monteiroi,,,,,,,,,,,,,,,,,,,
+Hydrobates pelagicus,137189,exact,Hydrobates pelagicus,accepted,137189,Hydrobates pelagicus,Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Hydrobates,,pelagicus,,1,,,1
+Hydrocoloeus minutus,567449,exact,Hydrocoloeus minutus,accepted,567449,Hydrocoloeus minutus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Hydrocoloeus,,minutus,,1,,,1
+Hydroprogne caspia,567825,exact,Hydroprogne caspia,accepted,567825,Hydroprogne caspia,Animalia,Chordata,Aves,Charadriiformes,Laridae,Hydroprogne,,caspia,,1,,,1
+Larus argentatus,137138,exact,Larus argentatus,accepted,137138,Larus argentatus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,argentatus,,1,,,1
+Larus audouinii,137139,exact,Larus audouinii,accepted,137139,Larus audouinii,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,audouinii,,1,,,1
+Larus canus,137141,exact,Larus canus,accepted,137141,Larus canus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,canus,,1,,,1
+Larus fuscus,137142,exact,Larus fuscus,accepted,137142,Larus fuscus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,fuscus,,1,,,1
+Larus fuscus,137142,exact,Larus fuscus,accepted,137142,Larus fuscus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,fuscus,,1,,,1
+Larus fuscus,137142,exact,Larus fuscus,accepted,137142,Larus fuscus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,fuscus,,1,,,1
+Larus genei,137143,exact,Larus genei,unaccepted,1488274,Chroicocephalus genei,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,genei,,1,,,1
+Larus marinus,137146,exact,Larus marinus,accepted,137146,Larus marinus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,marinus,,1,,,1
+Larus melanocephalus,137147,exact,Larus melanocephalus,unaccepted,1584284,Ichthyaetus melanocephalus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,melanocephalus,,1,,,1
+Larus michahellis,232052,exact,Larus michahellis,accepted,232052,Larus michahellis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,michahellis,,1,,,1
+Larus ridibundus,137149,exact,Larus ridibundus,accepted,137149,Larus ridibundus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,,ridibundus,,1,,,1
+Limosa lapponica,159034,exact,Limosa lapponica,accepted,159034,Limosa lapponica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,,lapponica,,1,,1,1
+Limosa limosa,159035,exact,Limosa limosa,accepted,159035,Limosa limosa,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,,limosa,,0,0,1,1
+Melanitta fusca,137072,exact,Melanitta fusca,accepted,137072,Melanitta fusca,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,,fusca,,1,,,1
+Melanitta nigra,137073,exact,Melanitta nigra,accepted,137073,Melanitta nigra,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,,nigra,,1,,,1
+Melanitta spp.,137002,exact,Melanitta,accepted,137002,Melanitta,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,,,,1,,,1
+Mergellus albellus,232039,exact,Mergellus albellus,accepted,232039,Mergellus albellus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergellus,,albellus,,0,,1,1
+Mergus merganser,159097,exact,Mergus merganser,accepted,159097,Mergus merganser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,,merganser,,1,1,1,1
+Mergus serrator,159098,exact,Mergus serrator,accepted,159098,Mergus serrator,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,,serrator,,1,,1,1
+Morus bassanus,148776,exact,Morus bassanus,accepted,148776,Morus bassanus,Animalia,Chordata,Aves,Pelecaniformes,Sulidae,Morus,,bassanus,,1,,,1
+Morus bassanus,148776,exact,Morus bassanus,accepted,148776,Morus bassanus,Animalia,Chordata,Aves,Pelecaniformes,Sulidae,Morus,,bassanus,,1,,,1
+Numenius arquata,159037,exact,Numenius arquata,accepted,159037,Numenius arquata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,,arquata,,1,,1,1
+Numenius phaeopus,159040,exact,Numenius phaeopus,accepted,159040,Numenius phaeopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,,phaeopus,,1,,,1
+Oceanodroma castro,137191,exact,Oceanodroma castro,accepted,137191,Oceanodroma castro,Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Oceanodroma,,castro,,1,,,1
+Oceanodroma leucorhoa,137192,exact,Oceanodroma leucorhoa,accepted,137192,Oceanodroma leucorhoa,Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Oceanodroma,,leucorhoa,,1,,,1
+Pelagodroma marina,212700,exact,Pelagodroma marina,accepted,212700,Pelagodroma marina,Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Pelagodroma,,marina,,1,,,1
+Phalacrocorax aristotelis,137178,exact,Phalacrocorax aristotelis,superseded combination,1704278,Gulosus aristotelis,Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,Phalacrocorax,,aristotelis,,1,,,1
+Phalacrocorax carbo,137179,exact,Phalacrocorax carbo,accepted,137179,Phalacrocorax carbo,Animalia,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,Phalacrocorax,,carbo,,1,1,1,1
+Philomachus pugnax,159046,exact,Philomachus pugnax,accepted,159046,Philomachus pugnax,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Philomachus,,pugnax,,1,,,1
+Platalea leucorodia,416678,exact,Platalea leucorodia,accepted,416678,Platalea leucorodia,Animalia,Chordata,Aves,Ciconiiformes,Threskiornithidae,Platalea,,leucorodia,,1,,,1
+Pluvialis apricaria,159135,exact,Pluvialis apricaria,accepted,159135,Pluvialis apricaria,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,,apricaria,,1,,,1
+Pluvialis squatarola,159137,exact,Pluvialis squatarola,accepted,159137,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,,squatarola,,1,,,1
+Podiceps auritus,137181,exact,Podiceps auritus,accepted,137181,Podiceps auritus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,,auritus,,1,1,1,1
+Podiceps cristatus,137182,exact,Podiceps cristatus,accepted,137182,Podiceps cristatus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,,cristatus,,1,,1,1
+Podiceps grisegena,137183,exact,Podiceps grisegena,accepted,137183,Podiceps grisegena,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,,grisegena,,1,,,1
+Podiceps nigricollis,137184,exact,Podiceps nigricollis,accepted,137184,Podiceps nigricollis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,,nigricollis,,1,,,1
+Polysticta stelleri,232041,exact,Polysticta stelleri,accepted,232041,Polysticta stelleri,Animalia,Chordata,Aves,Anseriformes,Anatidae,Polysticta,,stelleri,,1,,,1
+Pterodroma deserta,759338,exact,Pterodroma deserta,accepted,759338,Pterodroma deserta,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Pterodroma,,deserta,,1,,,1
+Pterodroma madeira,137198,exact,Pterodroma madeira,accepted,137198,Pterodroma madeira,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Pterodroma,,madeira,,1,,,1
+Puffinus gravis,137201,exact,Puffinus gravis,accepted,137201,Puffinus gravis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,,gravis,,1,,,1
+Puffinus griseus,137202,exact,Puffinus griseus,accepted,137202,Puffinus griseus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,,griseus,,1,,,1
+Puffinus lherminieri,212633,exact,Puffinus lherminieri,accepted,212633,Puffinus lherminieri,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,,lherminieri,,1,,,1
+Puffinus mauretanicus,445503,exact,Puffinus mauretanicus,accepted,445503,Puffinus mauretanicus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,,mauretanicus,,1,,,1
+Puffinus puffinus,137203,exact,Puffinus puffinus,accepted,137203,Puffinus puffinus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,,puffinus,,1,,,1
+Puffinus yelkouan,137204,exact,Puffinus yelkouan,accepted,137204,Puffinus yelkouan,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,,yelkouan,,1,,,1
+Recurvirostra avosetta,212721,exact,Recurvirostra avosetta,accepted,212721,Recurvirostra avosetta,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Recurvirostra,,avosetta,,1,,,1
+Rissa tridactyla,137156,exact,Rissa tridactyla,accepted,137156,Rissa tridactyla,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rissa,,tridactyla,,1,,,1
+Rissa tridactylus,137156,near_2,Rissa tridactyla,accepted,137156,Rissa tridactyla,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rissa,,tridactyla,,1,,,1
+Somateria mollissima,137074,exact,Somateria mollissima,accepted,137074,Somateria mollissima,Animalia,Chordata,Aves,Anseriformes,Anatidae,Somateria,,mollissima,,1,,,1
+Stercorarius parasiticus,137172,exact,Stercorarius parasiticus,accepted,137172,Stercorarius parasiticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,,parasiticus,,1,,,1
+Stercorarius pomarinus,137173,exact,Stercorarius pomarinus,accepted,137173,Stercorarius pomarinus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,,pomarinus,,1,,,1
+Stercorarius skua,137174,exact,Stercorarius skua,accepted,137174,Stercorarius skua,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,,skua,,1,,,1
+Sterna albifrons,137157,exact,Sterna albifrons,unaccepted,567480,Sternula albifrons,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,,albifrons,,1,,,1
+Sterna dougallii,137160,exact,Sterna dougallii,accepted,137160,Sterna dougallii,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,,dougallii,,1,,,1
+Sterna hirundo,137162,exact,Sterna hirundo,accepted,137162,Sterna hirundo,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,,hirundo,,1,,,1
+Sterna paradisaea,137165,exact,Sterna paradisaea,accepted,137165,Sterna paradisaea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,,paradisaea,,1,,,1
+Sterna sandvicensis,137166,exact,Sterna sandvicensis,accepted,137166,Sterna sandvicensis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,,sandvicensis,,1,,,1
+Sternula albifrons,567480,exact,Sternula albifrons,accepted,567480,Sternula albifrons,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sternula,,albifrons,,1,,,1
+Tadorna tadorna,232042,exact,Tadorna tadorna,accepted,232042,Tadorna tadorna,Animalia,Chordata,Aves,Anseriformes,Anatidae,Tadorna,,tadorna,,0,,1,1
+Tringa erythropus,159029,exact,Tringa erythropus,accepted,159029,Tringa erythropus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,,erythropus,,1,1,1,1
+Tringa glareola,225916,exact,Tringa glareola,accepted,225916,Tringa glareola,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,,glareola,,0,0,1,1
+Tringa nebularia,158968,exact,Tringa nebularia,accepted,158968,Tringa nebularia,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,,nebularia,,1,,1,1
+Tringa totanus,158970,exact,Tringa totanus,accepted,158970,Tringa totanus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,,totanus,,1,1,1,1
+Uria aalge,137133,exact,Uria aalge,accepted,137133,Uria aalge,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Uria,,aalge,,1,,,1
+Vanellus vanellus,159142,exact,Vanellus vanellus,accepted,159142,Vanellus vanellus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,,vanellus,,0,0,,1
+Alloteuthis spp.,138138,exact,Alloteuthis,accepted,138138,Alloteuthis,Animalia,Mollusca,Cephalopoda,Myopsida,Loliginidae,Alloteuthis,,,,1,,0,0
+Eledone cirrhosa,140600,exact,Eledone cirrhosa,accepted,140600,Eledone cirrhosa,Animalia,Mollusca,Cephalopoda,Octopoda,Eledonidae,Eledone,,cirrhosa,,1,,0,0
+Eledone moschata,140601,exact,Eledone moschata,accepted,140601,Eledone moschata,Animalia,Mollusca,Cephalopoda,Octopoda,Eledonidae,Eledone,,moschata,,1,,0,0
+Illex coindetii,140621,exact,Illex coindetii,accepted,140621,Illex coindetii,Animalia,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Illex,,coindetii,,1,,0,0
+Loligo vulgaris,140271,exact,Loligo vulgaris,accepted,140271,Loligo vulgaris,Animalia,Mollusca,Cephalopoda,Myopsida,Loliginidae,Loligo,,vulgaris,,1,,0,0
+Octopus vulgaris,140605,exact,Octopus vulgaris,accepted,140605,Octopus vulgaris,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,,vulgaris,,1,,0,0
+Scaeurgus unicirrhus,140607,exact,Scaeurgus unicirrhus,accepted,140607,Scaeurgus unicirrhus,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Scaeurgus,,unicirrhus,,1,0,0,0
+Sepia officinalis,141444,exact,Sepia officinalis,accepted,141444,Sepia officinalis,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,,officinalis,,1,1,0,0
+Sepia orbignyana,141445,exact,Sepia orbignyana,superseded combination,1667212,Rhombosepion orbignyanum,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,,orbignyana,,1,0,0,0
+Todarodes sagittatus,140624,exact,Todarodes sagittatus,accepted,140624,Todarodes sagittatus,Animalia,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Todarodes,,sagittatus,,1,,0,0
+Todaropsis eblanae,140625,exact,Todaropsis eblanae,accepted,140625,Todaropsis eblanae,Animalia,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Todaropsis,,eblanae,,1,,0,0
+Abramis brama,154281,exact,Abramis brama,accepted,154281,Abramis brama,Animalia,Chordata,Teleostei,Cypriniformes,Cyprinidae,Abramis,,brama,,0,1,1,0
+Acipenser oxyrinchus,151802,exact,Acipenser oxyrinchus,accepted,151802,Acipenser oxyrinchus,Animalia,Chordata,Chondrostei,Acipenseriformes,Acipenseridae,Acipenser,,oxyrinchus,,1,1,1,0
+Acipenser sturio,126279,exact,Acipenser sturio,accepted,126279,Acipenser sturio,Animalia,Chordata,Chondrostei,Acipenseriformes,Acipenseridae,Acipenser,,sturio,,1,1,1,0
+Alepocephalus bairdii,126682,exact,Alepocephalus bairdii,accepted,126682,Alepocephalus bairdii,Animalia,Chordata,Teleostei,Alepocephaliformes,Alepocephalidae,Alepocephalus,,bairdii,,1,0,0,0
+Alopias superciliosus,105835,exact,Alopias superciliosus,accepted,105835,Alopias superciliosus,Animalia,Chordata,Elasmobranchii,Lamniformes,Alopiidae,Alopias,,superciliosus,,1,0,0,0
+Alopias vulpinus,105836,exact,Alopias vulpinus,accepted,105836,Alopias vulpinus,Animalia,Chordata,Elasmobranchii,Lamniformes,Alopiidae,Alopias,,vulpinus,,1,0,0,0
+Alosa alosa,126413,exact,Alosa alosa,accepted,126413,Alosa alosa,Animalia,Chordata,Teleostei,Clupeiformes,Alosidae,Alosa,,alosa,,1,1,1,0
+Alosa fallax,126415,exact,Alosa fallax,accepted,126415,Alosa fallax,Animalia,Chordata,Teleostei,Clupeiformes,Alosidae,Alosa,,fallax,,1,1,1,0
+Amblyraja radiata,105865,exact,Amblyraja radiata,accepted,105865,Amblyraja radiata,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Amblyraja,,radiata,,1,1,0,0
+Ammodytes spp,125909,exact,Ammodytes,accepted,125909,Ammodytes,Animalia,Chordata,Teleostei,Perciformes,Ammodytidae,Ammodytes,,,,1,1,0,0
+Anarhichas denticulatus,126757,exact,Anarhichas denticulatus,accepted,126757,Anarhichas denticulatus,Animalia,Chordata,Teleostei,Perciformes,Anarhichadidae,Anarhichas,,denticulatus,,1,0,0,0
+Anarhichas lupus,126758,exact,Anarhichas lupus,accepted,126758,Anarhichas lupus,Animalia,Chordata,Teleostei,Perciformes,Anarhichadidae,Anarhichas,,lupus,,1,0,0,0
+Anguilla anguilla,126281,exact,Anguilla anguilla,accepted,126281,Anguilla anguilla,Animalia,Chordata,Teleostei,Anguilliformes,Anguillidae,Anguilla,,anguilla,,1,1,1,0
+Antimora rostrata,126486,exact,Antimora rostrata,accepted,126486,Antimora rostrata,Animalia,Chordata,Teleostei,Gadiformes,Moridae,Antimora,,rostrata,,1,0,0,0
+Aphanopus carbo,127085,exact,Aphanopus carbo,accepted,127085,Aphanopus carbo,Animalia,Chordata,Teleostei,Scombriformes,Trichiuridae,Aphanopus,,carbo,,1,0,0,0
+Apristurus spp.,105727,exact,Apristurus,accepted,105727,Apristurus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Pentanchidae,Apristurus,,,,1,0,0,0
+Argentina,125885,exact,Argentina,accepted,125885,Argentina,Animalia,Chordata,Teleostei,Argentiniformes,Argentinidae,Argentina,,,,1,1,0,0
+Argentina silus,126715,exact,Argentina silus,accepted,126715,Argentina silus,Animalia,Chordata,Teleostei,Argentiniformes,Argentinidae,Argentina,,silus,,1,0,0,0
+Argentina sphyraena,126716,exact,Argentina sphyraena,accepted,126716,Argentina sphyraena,Animalia,Chordata,Teleostei,Argentiniformes,Argentinidae,Argentina,,sphyraena,,1,0,0,0
+Arnoglossus imperialis,127124,exact,Arnoglossus imperialis,accepted,127124,Arnoglossus imperialis,Animalia,Chordata,Teleostei,Pleuronectiformes,Bothidae,Arnoglossus,,imperialis,,1,0,0,0
+Arnoglossus laterna,127126,exact,Arnoglossus laterna,accepted,127126,Arnoglossus laterna,Animalia,Chordata,Teleostei,Pleuronectiformes,Bothidae,Arnoglossus,,laterna,,1,0,0,0
+Arnoglossus rueppelii,127127,exact,Arnoglossus rueppelii,accepted,127127,Arnoglossus rueppelii,Animalia,Chordata,Teleostei,Pleuronectiformes,Bothidae,Arnoglossus,,rueppelii,,1,0,0,0
+Arnoglossus thori,127128,exact,Arnoglossus thori,accepted,127128,Arnoglossus thori,Animalia,Chordata,Teleostei,Pleuronectiformes,Bothidae,Arnoglossus,,thori,,1,0,0,0
+Belone belone,126375,exact,Belone belone,accepted,126375,Belone belone,Animalia,Chordata,Teleostei,Beloniformes,Belonidae,Belone,,belone,,1,1,0,0
+Beryx spp.,125700,exact,Beryx,accepted,125700,Beryx,Animalia,Chordata,Teleostei,Beryciformes,Berycidae,Beryx,,,,1,0,0,0
+Blennius ocellaris,126761,exact,Blennius ocellaris,accepted,126761,Blennius ocellaris,Animalia,Chordata,Teleostei,Blenniiformes,Blenniidae,Blennius,,ocellaris,,1,0,0,0
+Boops boops,127047,exact,Boops boops,accepted,127047,Boops boops,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Boops,,boops,,1,0,0,0
+Brosme brosme,126447,exact,Brosme brosme,accepted,126447,Brosme brosme,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Brosme,,brosme,,1,0,0,0
+Buglossidium luteum,127153,exact,Buglossidium luteum,accepted,127153,Buglossidium luteum,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Buglossidium,,luteum,,1,0,0,0
+Callionymus lyra,126792,exact,Callionymus lyra,accepted,126792,Callionymus lyra,Animalia,Chordata,Teleostei,Callionymiformes,Callionymidae,Callionymus,,lyra,,1,0,0,0
+Callionymus maculatus,126793,exact,Callionymus maculatus,accepted,126793,Callionymus maculatus,Animalia,Chordata,Teleostei,Callionymiformes,Callionymidae,Callionymus,,maculatus,,1,0,0,0
+Capros aper,127419,exact,Capros aper,accepted,127419,Capros aper,Animalia,Chordata,Teleostei,Acanthuriformes,Caproidae,Capros,,aper,,1,0,0,0
+Cataetyx laticeps,126657,exact,Cataetyx laticeps,accepted,126657,Cataetyx laticeps,Animalia,Chordata,Teleostei,Ophidiiformes,Bythitidae,Cataetyx,,laticeps,,1,0,0,0
+Centrophorus granulosus,105899,exact,Centrophorus granulosus,accepted,105899,Centrophorus granulosus,Animalia,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Centrophorus,,granulosus,,1,0,0,0
+Centrophorus lusitanicus,105900,exact,Centrophorus lusitanicus,accepted,105900,Centrophorus lusitanicus,Animalia,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Centrophorus,,lusitanicus,,1,0,0,0
+Centrophorus squamosus,105901,exact,Centrophorus squamosus,accepted,105901,Centrophorus squamosus,Animalia,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Centrophorus,,squamosus,,1,0,0,0
+Centroscyllium fabricii,105906,exact,Centroscyllium fabricii,accepted,105906,Centroscyllium fabricii,Animalia,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Centroscyllium,,fabricii,,1,0,0,0
+Centroscymnus coelolepis,105907,exact,Centroscymnus coelolepis,accepted,105907,Centroscymnus coelolepis,Animalia,Chordata,Elasmobranchii,Squaliformes,Somniosidae,Centroscymnus,,coelolepis,,1,0,0,0
+Centroselachus crepidater,280071,exact,Centroselachus crepidater,accepted,280071,Centroselachus crepidater,Animalia,Chordata,Elasmobranchii,Squaliformes,Somniosidae,Centroselachus,,crepidater,,1,0,0,0
+Cepola macrophthalma,126835,exact,Cepola macrophthalma,accepted,126835,Cepola macrophthalma,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Cepolidae,Cepola,,macrophthalma,,1,0,0,0
+Cetorhinus maximus,105837,exact,Cetorhinus maximus,accepted,105837,Cetorhinus maximus,Animalia,Chordata,Elasmobranchii,Lamniformes,Cetorhinidae,Cetorhinus,,maximus,,1,0,0,0
+Chelidonichthys cuculus,127259,exact,Chelidonichthys cuculus,accepted,127259,Chelidonichthys cuculus,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Chelidonichthys,,cuculus,,1,0,0,0
+Chelidonichthys lastoviza,127261,exact,Chelidonichthys lastoviza,accepted,127261,Chelidonichthys lastoviza,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Chelidonichthys,,lastoviza,,1,0,0,0
+Chelidonichthys lucerna,127262,exact,Chelidonichthys lucerna,accepted,127262,Chelidonichthys lucerna,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Chelidonichthys,,lucerna,,1,0,0,0
+Chelidonichthys obscurus,127263,exact,Chelidonichthys obscurus,accepted,127263,Chelidonichthys obscurus,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Chelidonichthys,,obscurus,,1,0,0,0
+Chelon labrosus,126977,exact,Chelon labrosus,accepted,126977,Chelon labrosus,Animalia,Chordata,Teleostei,Mugiliformes,Mugilidae,Chelon,,labrosus,,1,1,1,0
+Chimaera monstrosa,105824,exact,Chimaera monstrosa,accepted,105824,Chimaera monstrosa,Animalia,Chordata,Holocephali,Chimaeriformes,Chimaeridae,Chimaera,,monstrosa,,1,0,0,0
+Chimaera spp.,105733,exact,Chimaera,accepted,105733,Chimaera,Animalia,Chordata,Holocephali,Chimaeriformes,Chimaeridae,Chimaera,,,,1,0,0,0
+Citharus linguatula,127130,exact,Citharus linguatula,accepted,127130,Citharus linguatula,Animalia,Chordata,Teleostei,Pleuronectiformes,Citharidae,Citharus,,linguatula,,1,0,0,0
+Clupea harengus,126417,exact,Clupea harengus,accepted,126417,Clupea harengus,Animalia,Chordata,Teleostei,Clupeiformes,Clupeidae,Clupea,,harengus,,1,1,0,0
+Clupea harengus,126417,exact,Clupea harengus,accepted,126417,Clupea harengus,Animalia,Chordata,Teleostei,Clupeiformes,Clupeidae,Clupea,,harengus,,1,1,0,0
+Coastal fish,,,,,,,,,,,,,,,,,,,
+Coelorinchus caelorhincus,398381,exact,Coelorinchus caelorhincus,accepted,398381,Coelorinchus caelorhincus,Animalia,Chordata,Teleostei,Gadiformes,Macrouridae,Coelorinchus,,caelorhincus,,1,0,0,0
+Conger conger,126285,exact,Conger conger,accepted,126285,Conger conger,Animalia,Chordata,Teleostei,Anguilliformes,Congridae,Conger,,conger,,1,0,0,0
+Coregonus albula,127178,exact,Coregonus albula,accepted,127178,Coregonus albula,Animalia,Chordata,Teleostei,Salmoniformes,Salmonidae,Coregonus,,albula,,1,1,1,0
+Coregonus lavaretus,127180,exact,Coregonus lavaretus,accepted,127180,Coregonus lavaretus,Animalia,Chordata,Teleostei,Salmoniformes,Salmonidae,Coregonus,,lavaretus,,0,1,1,0
+Coregonus maraena,712453,exact,Coregonus maraena,accepted,712453,Coregonus maraena,Animalia,Chordata,Teleostei,Salmoniformes,Salmonidae,Coregonus,,maraena,,1,1,1,0
+Coris julis,126963,exact,Coris julis,accepted,126963,Coris julis,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Labridae,Coris,,julis,,1,0,0,0
+Coryphaenoides rupestris,158960,exact,Coryphaenoides rupestris,accepted,158960,Coryphaenoides rupestris,Animalia,Chordata,Teleostei,Gadiformes,Macrouridae,Coryphaenoides,,rupestris,,1,0,0,0
+Cyclopterus lumpus,127214,exact,Cyclopterus lumpus,accepted,127214,Cyclopterus lumpus,Animalia,Chordata,Teleostei,Perciformes,Cyclopteridae,Cyclopterus,,lumpus,,1,0,0,0
+Dalatias licha,105910,exact,Dalatias licha,accepted,105910,Dalatias licha,Animalia,Chordata,Elasmobranchii,Squaliformes,Dalatiidae,Dalatias,,licha,,1,0,0,0
+Dasyatis pastinaca,105851,exact,Dasyatis pastinaca,accepted,105851,Dasyatis pastinaca,Animalia,Chordata,Elasmobranchii,Myliobatiformes,Dasyatidae,Dasyatis,,pastinaca,,1,1,0,0
+Deania calcea,105903,exact,Deania calcea,unaccepted,298167,Deania calceus,Animalia,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Deania,,calcea,,1,0,0,0
+Deania spp.,105771,exact,Deania,accepted,105771,Deania,Animalia,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Deania,,,,1,0,0,0
+Deltentosteus quadrimaculatus,126880,exact,Deltentosteus quadrimaculatus,accepted,126880,Deltentosteus quadrimaculatus,Animalia,Chordata,Teleostei,Gobiiformes,Gobiidae,Deltentosteus,,quadrimaculatus,,1,0,0,0
+Demersal fish,,,,,,,,,,,,,,,,,,,
+Dentex dentex,273962,exact,Dentex dentex,accepted,273962,Dentex dentex,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Dentex,,dentex,,1,0,0,0
+Dicentrarchus labrax,126975,exact,Dicentrarchus labrax,accepted,126975,Dicentrarchus labrax,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Moronidae,Dicentrarchus,,labrax,,1,1,1,0
+Diplodus annularis,127049,exact,Diplodus annularis,accepted,127049,Diplodus annularis,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Diplodus,,annularis,,1,1,0,0
+Diplodus bellottii,127050,exact,Diplodus bellottii,accepted,127050,Diplodus bellottii,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Diplodus,,bellottii,,1,0,0,0
+Diplodus puntazzo,127052,exact,Diplodus puntazzo,accepted,127052,Diplodus puntazzo,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Diplodus,,puntazzo,,1,1,0,0
+Diplodus sargus,127053,exact,Diplodus sargus,accepted,127053,Diplodus sargus,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Diplodus,,sargus,,1,1,0,0
+Diplodus vulgaris,127054,exact,Diplodus vulgaris,accepted,127054,Diplodus vulgaris,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Diplodus,,vulgaris,,1,0,0,0
+Dipturus batis,105869,exact,Dipturus batis,accepted,105869,Dipturus batis,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,,batis,,1,0,0,0
+Dipturus nidarosiensis,105871,exact,Dipturus nidarosiensis,accepted,105871,Dipturus nidarosiensis,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,,nidarosiensis,,1,0,0,0
+Dipturus oxyrinchus,105872,exact,Dipturus oxyrinchus,accepted,105872,Dipturus oxyrinchus,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,,oxyrinchus,,1,0,0,0
+Echiichthys vipera,150630,exact,Echiichthys vipera,accepted,150630,Echiichthys vipera,Animalia,Chordata,Teleostei,Perciformes,Trachinidae,Echiichthys,,vipera,,1,0,0,0
+Enchelyopus cimbrius,126450,exact,Enchelyopus cimbrius,accepted,126450,Enchelyopus cimbrius,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Enchelyopus,,cimbrius,,1,0,0,0
+Engraulis encrasicolus,126426,exact,Engraulis encrasicolus,accepted,126426,Engraulis encrasicolus,Animalia,Chordata,Teleostei,Clupeiformes,Engraulidae,Engraulis,,encrasicolus,,1,1,0,0
+Epigonus telescopus,126858,exact,Epigonus telescopus,accepted,126858,Epigonus telescopus,Animalia,Chordata,Teleostei,Acropomatiformes,Epigonidae,Epigonus,,telescopus,,1,0,0,0
+Epinephelus marginatus,127036,exact,Epinephelus marginatus,accepted,127036,Epinephelus marginatus,Animalia,Chordata,Teleostei,Perciformes,Serranidae,Epinephelus,,marginatus,,1,0,0,0
+Esox lucius,154210,exact,Esox lucius,accepted,154210,Esox lucius,Animalia,Chordata,Teleostei,Esociformes,Esocidae,Esox,,lucius,,0,1,1,0
+Etmopterus princeps,105911,exact,Etmopterus princeps,accepted,105911,Etmopterus princeps,Animalia,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Etmopterus,,princeps,,1,0,0,0
+Etmopterus pusillus,105912,exact,Etmopterus pusillus,accepted,105912,Etmopterus pusillus,Animalia,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Etmopterus,,pusillus,,1,0,0,0
+Etmopterus spinax,105913,exact,Etmopterus spinax,accepted,105913,Etmopterus spinax,Animalia,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Etmopterus,,spinax,,1,0,0,0
+Eutrigla gurnardus,150637,exact,Eutrigla gurnardus,accepted,150637,Eutrigla gurnardus,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Eutrigla,,gurnardus,,1,1,0,0
+Gadiculus argenteus,126435,exact,Gadiculus argenteus,accepted,126435,Gadiculus argenteus,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Gadiculus,,argenteus,,1,0,0,0
+Gadus morhua,126436,exact,Gadus morhua,accepted,126436,Gadus morhua,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Gadus,,morhua,,1,1,0,0
+Gaidropsarus macrophthalmus,126456,exact,Gaidropsarus macrophthalmus,accepted,126456,Gaidropsarus macrophthalmus,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Gaidropsarus,,macrophthalmus,,1,0,0,0
+Gaidropsarus vulgaris,126458,exact,Gaidropsarus vulgaris,accepted,126458,Gaidropsarus vulgaris,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Gaidropsarus,,vulgaris,,1,0,0,0
+Galeorhinus galeus,105820,exact,Galeorhinus galeus,accepted,105820,Galeorhinus galeus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Galeorhinus,,galeus,,1,0,0,0
+Galeus melastomus,105812,exact,Galeus melastomus,accepted,105812,Galeus melastomus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Pentanchidae,Galeus,,melastomus,,1,0,0,0
+Galeus murinus,105813,exact,Galeus murinus,accepted,105813,Galeus murinus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Pentanchidae,Galeus,,murinus,,1,0,0,0
+Glossanodon leioglossus,126717,exact,Glossanodon leioglossus,accepted,126717,Glossanodon leioglossus,Animalia,Chordata,Teleostei,Argentiniformes,Argentinidae,Glossanodon,,leioglossus,,1,0,0,0
+Glyptocephalus cynoglossus,127136,exact,Glyptocephalus cynoglossus,accepted,127136,Glyptocephalus cynoglossus,Animalia,Chordata,Teleostei,Pleuronectiformes,Pleuronectidae,Glyptocephalus,,cynoglossus,,1,0,0,0
+Gnathophis mystax,126287,exact,Gnathophis mystax,accepted,126287,Gnathophis mystax,Animalia,Chordata,Teleostei,Anguilliformes,Congridae,Gnathophis,,mystax,,1,0,0,0
+Gobius niger,126892,exact,Gobius niger,accepted,126892,Gobius niger,Animalia,Chordata,Teleostei,Gobiiformes,Gobiidae,Gobius,,niger,,1,1,0,0
+Helicolenus dactylopterus,127251,exact,Helicolenus dactylopterus,accepted,127251,Helicolenus dactylopterus,Animalia,Chordata,Teleostei,Perciformes,Sebastidae,Helicolenus,,dactylopterus,,1,0,0,0
+Heptranchias perlo,105832,exact,Heptranchias perlo,accepted,105832,Heptranchias perlo,Animalia,Chordata,Elasmobranchii,Hexanchiformes,Hexanchidae,Heptranchias,,perlo,,1,0,0,0
+Hexanchus griseus,105833,exact,Hexanchus griseus,accepted,105833,Hexanchus griseus,Animalia,Chordata,Elasmobranchii,Hexanchiformes,Hexanchidae,Hexanchus,,griseus,,1,0,0,0
+Hippocampus guttulatus,154776,exact,Hippocampus guttulatus,accepted,154776,Hippocampus guttulatus,Animalia,Chordata,Teleostei,Syngnathiformes,Syngnathidae,Hippocampus,,guttulatus,,1,1,0,0
+Hippocampus hippocampus,127380,exact,Hippocampus hippocampus,accepted,127380,Hippocampus hippocampus,Animalia,Chordata,Teleostei,Syngnathiformes,Syngnathidae,Hippocampus,,hippocampus,,1,0,0,0
+Hippoglossus hippoglossus,127138,exact,Hippoglossus hippoglossus,accepted,127138,Hippoglossus hippoglossus,Animalia,Chordata,Teleostei,Pleuronectiformes,Pleuronectidae,Hippoglossus,,hippoglossus,,1,0,0,0
+Hoplostethus atlanticus,126402,exact,Hoplostethus atlanticus,accepted,126402,Hoplostethus atlanticus,Animalia,Chordata,Teleostei,Trachichthyiformes,Trachichthyidae,Hoplostethus,,atlanticus,,1,0,0,0
+Hydrolagus mirabilis,105826,exact,Hydrolagus mirabilis,accepted,105826,Hydrolagus mirabilis,Animalia,Chordata,Holocephali,Chimaeriformes,Chimaeridae,Hydrolagus,,mirabilis,,1,0,0,0
+Hymenocephalus italicus,158961,exact,Hymenocephalus italicus,accepted,158961,Hymenocephalus italicus,Animalia,Chordata,Teleostei,Gadiformes,Macrouridae,Hymenocephalus,,italicus,,1,0,0,0
+Isurus oxyrinchus,105839,exact,Isurus oxyrinchus,accepted,105839,Isurus oxyrinchus,Animalia,Chordata,Elasmobranchii,Lamniformes,Lamnidae,Isurus,,oxyrinchus,,1,0,0,0
+Labrus viridis,126968,exact,Labrus viridis,accepted,126968,Labrus viridis,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Labridae,Labrus,,viridis,,1,0,0,0
+Lamna nasus,105841,exact,Lamna nasus,accepted,105841,Lamna nasus,Animalia,Chordata,Elasmobranchii,Lamniformes,Lamnidae,Lamna,,nasus,,1,0,0,0
+Lampetra fluviatilis,101172,exact,Lampetra fluviatilis,accepted,101172,Lampetra fluviatilis,Animalia,Chordata,Petromyzonti,Petromyzontiformes,Petromyzontidae,Lampetra,,fluviatilis,,1,1,1,0
+Lepidopus caudatus,127088,exact,Lepidopus caudatus,accepted,127088,Lepidopus caudatus,Animalia,Chordata,Teleostei,Scombriformes,Trichiuridae,Lepidopus,,caudatus,,1,0,0,0
+Lepidorhombus boscii,127145,exact,Lepidorhombus boscii,accepted,127145,Lepidorhombus boscii,Animalia,Chordata,Teleostei,Pleuronectiformes,Scophthalmidae,Lepidorhombus,,boscii,,1,0,0,0
+Lepidorhombus whiffiagonis,127146,exact,Lepidorhombus whiffiagonis,accepted,127146,Lepidorhombus whiffiagonis,Animalia,Chordata,Teleostei,Pleuronectiformes,Scophthalmidae,Lepidorhombus,,whiffiagonis,,1,0,0,0
+Lepidotrigla cavillone,127264,exact,Lepidotrigla cavillone,accepted,127264,Lepidotrigla cavillone,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Lepidotrigla,,cavillone,,1,0,0,0
+Lepidotrigla dieuzeidei,127265,exact,Lepidotrigla dieuzeidei,accepted,127265,Lepidotrigla dieuzeidei,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Lepidotrigla,,dieuzeidei,,1,0,0,0
+Lepidotrigla spp.,126179,exact,Lepidotrigla,accepted,126179,Lepidotrigla,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Lepidotrigla,,,,1,0,0,0
+Lesueurigobius friesii,126904,exact,Lesueurigobius friesii,accepted,126904,Lesueurigobius friesii,Animalia,Chordata,Teleostei,Gobiiformes,Gobiidae,Lesueurigobius,,friesii,,1,0,0,0
+Lesueurigobius sanzi,126906,exact,Lesueurigobius sanzi,accepted,126906,Lesueurigobius sanzi,Animalia,Chordata,Teleostei,Gobiiformes,Gobiidae,Lesueurigobius,,sanzi,,1,0,0,0
+Leuciscus aspius,1015724,exact,Leuciscus aspius,accepted,1015724,Leuciscus aspius,Animalia,Chordata,Teleostei,Cypriniformes,Cyprinidae,Leuciscus,,aspius,,0,1,1,0
+Leucoraja circularis,105873,exact,Leucoraja circularis,accepted,105873,Leucoraja circularis,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,,circularis,,1,0,0,0
+Leucoraja fullonica,105874,exact,Leucoraja fullonica,accepted,105874,Leucoraja fullonica,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,,fullonica,,1,0,0,0
+Leucoraja melitensis,105875,exact,Leucoraja melitensis,accepted,105875,Leucoraja melitensis,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,,melitensis,,1,0,0,0
+Leucoraja naevus,105876,exact,Leucoraja naevus,accepted,105876,Leucoraja naevus,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,,naevus,,1,0,0,0
+Limanda limanda,127139,exact,Limanda limanda,accepted,127139,Limanda limanda,Animalia,Chordata,Teleostei,Pleuronectiformes,Pleuronectidae,Limanda,,limanda,,1,0,0,0
+Lophius budegassa,126554,exact,Lophius budegassa,accepted,126554,Lophius budegassa,Animalia,Chordata,Teleostei,Lophiiformes,Lophiidae,Lophius,,budegassa,,1,0,0,0
+Lophius piscatorius,126555,exact,Lophius piscatorius,accepted,126555,Lophius piscatorius,Animalia,Chordata,Teleostei,Lophiiformes,Lophiidae,Lophius,,piscatorius,,1,0,0,0
+Lumpenus lampretaeformis,154675,exact,Lumpenus lampretaeformis,accepted,154675,Lumpenus lampretaeformis,Animalia,Chordata,Teleostei,Perciformes,Stichaeidae,Lumpenus,,lampretaeformis,,1,0,0,0
+Malacocephalus laevis,272392,exact,Malacocephalus laevis,accepted,272392,Malacocephalus laevis,Animalia,Chordata,Teleostei,Gadiformes,Macrouridae,Malacocephalus,,laevis,,1,0,0,0
+Melanogrammus aeglefinus,126437,exact,Melanogrammus aeglefinus,accepted,126437,Melanogrammus aeglefinus,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Melanogrammus,,aeglefinus,,1,0,0,0
+Merlangius merlangus,126438,exact,Merlangius merlangus,accepted,126438,Merlangius merlangus,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Merlangius,,merlangus,,1,1,0,0
+Merluccius merluccius,126484,exact,Merluccius merluccius,accepted,126484,Merluccius merluccius,Animalia,Chordata,Teleostei,Gadiformes,Merlucciidae,Merluccius,,merluccius,,1,0,0,0
+Microchirus azevia,274299,exact,Microchirus azevia,accepted,274299,Microchirus azevia,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Microchirus,,azevia,,1,0,0,0
+Microchirus boscanion,274300,exact,Microchirus boscanion,accepted,274300,Microchirus boscanion,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Microchirus,,boscanion,,1,0,0,0
+Microchirus ocellatus,274302,exact,Microchirus ocellatus,accepted,274302,Microchirus ocellatus,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Microchirus,,ocellatus,,1,0,0,0
+Microchirus variegatus,274304,exact,Microchirus variegatus,accepted,274304,Microchirus variegatus,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Microchirus,,variegatus,,1,0,0,0
+Micromesistius poutassou,126439,exact,Micromesistius poutassou,accepted,126439,Micromesistius poutassou,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Micromesistius,,poutassou,,1,0,0,0
+Microstomus kitt,127140,exact,Microstomus kitt,accepted,127140,Microstomus kitt,Animalia,Chordata,Teleostei,Pleuronectiformes,Pleuronectidae,Microstomus,,kitt,,1,0,0,0
+Mobula mobular,105858,exact,Mobula mobular,accepted,105858,Mobula mobular,Animalia,Chordata,Elasmobranchii,Myliobatiformes,Mobulidae,Mobula,,mobular,,1,0,0,0
+Molva dypterygia,126459,exact,Molva dypterygia,accepted,126459,Molva dypterygia,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Molva,,dypterygia,,1,0,0,0
+Molva macrophthalma,126460,exact,Molva macrophthalma,accepted,126460,Molva macrophthalma,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Molva,,macrophthalma,,1,0,0,0
+Molva molva,126461,exact,Molva molva,accepted,126461,Molva molva,Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Molva,,molva,,1,0,0,0
+Mora moro,126497,exact,Mora moro,accepted,126497,Mora moro,Animalia,Chordata,Teleostei,Gadiformes,Moridae,Mora,,moro,,1,0,0,0
+Mullus surmuletus,126986,exact,Mullus surmuletus,accepted,126986,Mullus surmuletus,Animalia,Chordata,Teleostei,Mulliformes,Mullidae,Mullus,,surmuletus,,1,0,0,0
+Mustelus,105732,exact,Mustelus,accepted,105732,Mustelus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,,,,1,1,0,0
+Mustelus asterias,105821,exact,Mustelus asterias,accepted,105821,Mustelus asterias,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,,asterias,,1,0,0,0
+Mustelus mustelus,105822,exact,Mustelus mustelus,accepted,105822,Mustelus mustelus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,,mustelus,,1,0,0,0
+Mustelus punctulatus,105823,exact,Mustelus punctulatus,accepted,105823,Mustelus punctulatus,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,,punctulatus,,1,0,0,0
+Myliobatis aquila,105860,exact,Myliobatis aquila,accepted,105860,Myliobatis aquila,Animalia,Chordata,Elasmobranchii,Myliobatiformes,Myliobatidae,Myliobatis,,aquila,,1,1,0,0
+Neogobius melanostomus,126916,exact,Neogobius melanostomus,accepted,126916,Neogobius melanostomus,Animalia,Chordata,Teleostei,Gobiiformes,Gobiidae,Neogobius,,melanostomus,,1,1,1,0
+Nezumia sclerorhynchus,126475,exact,Nezumia sclerorhynchus,accepted,126475,Nezumia sclerorhynchus,Animalia,Chordata,Teleostei,Gadiformes,Macrouridae,Nezumia,,sclerorhynchus,,1,0,0,0
+Notacanthus chemnitzii,126643,exact,Notacanthus chemnitzii,accepted,126643,Notacanthus chemnitzii,Animalia,Chordata,Teleostei,Notacanthiformes,Notacanthidae,Notacanthus,,chemnitzii,,1,0,0,0
+Oblada melanura,127056,exact,Oblada melanura,unaccepted,1577363,Oblada melanurus,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Oblada,,melanura,,1,0,0,0
+Oxynotus paradoxus,105915,exact,Oxynotus paradoxus,accepted,105915,Oxynotus paradoxus,Animalia,Chordata,Elasmobranchii,Squaliformes,Oxynotidae,Oxynotus,,paradoxus,,1,0,0,0
+Pagellus acarne,127057,exact,Pagellus acarne,accepted,127057,Pagellus acarne,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Pagellus,,acarne,,1,0,0,0
+Pagellus bellottii,127058,exact,Pagellus bellottii,accepted,127058,Pagellus bellottii,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Pagellus,,bellottii,,1,0,0,0
+Pagellus bogaraveo,127059,exact,Pagellus bogaraveo,accepted,127059,Pagellus bogaraveo,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Pagellus,,bogaraveo,,1,0,0,0
+Pagellus erythrinus,127060,exact,Pagellus erythrinus,accepted,127060,Pagellus erythrinus,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Pagellus,,erythrinus,,1,0,0,0
+Perca fluviatilis,151353,exact,Perca fluviatilis,accepted,151353,Perca fluviatilis,Animalia,Chordata,Teleostei,Perciformes,Percidae,Perca,,fluviatilis,,0,1,1,0
+Peristedion cataphractum,127233,exact,Peristedion cataphractum,accepted,127233,Peristedion cataphractum,Animalia,Chordata,Teleostei,Perciformes,Peristediidae,Peristedion,,cataphractum,,1,0,0,0
+Petromyzon marinus,101174,exact,Petromyzon marinus,accepted,101174,Petromyzon marinus,Animalia,Chordata,Petromyzonti,Petromyzontiformes,Petromyzontidae,Petromyzon,,marinus,,1,1,1,0
+Phycis blennoides,126501,exact,Phycis blennoides,accepted,126501,Phycis blennoides,Animalia,Chordata,Teleostei,Gadiformes,Phycidae,Phycis,,blennoides,,1,0,0,0
+Platichthys flesus,127141,exact,Platichthys flesus,accepted,127141,Platichthys flesus,Animalia,Chordata,Teleostei,Pleuronectiformes,Pleuronectidae,Platichthys,,flesus,,1,1,1,0
+Pleuronectes platessa,127143,exact,Pleuronectes platessa,accepted,127143,Pleuronectes platessa,Animalia,Chordata,Teleostei,Pleuronectiformes,Pleuronectidae,Pleuronectes,,platessa,,1,1,0,0
+Pollachius pollachius,126440,exact,Pollachius pollachius,accepted,126440,Pollachius pollachius,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Pollachius,,pollachius,,1,0,0,0
+Pollachius virens,126441,exact,Pollachius virens,accepted,126441,Pollachius virens,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Pollachius,,virens,,1,0,0,0
+Polyprion americanus,126998,exact,Polyprion americanus,accepted,126998,Polyprion americanus,Animalia,Chordata,Teleostei,Acropomatiformes,Polyprionidae,Polyprion,,americanus,,1,0,0,0
+Psetta maxima,154473,exact,Psetta maxima,unaccepted,127149,Scophthalmus maximus,Animalia,Chordata,Teleostei,Pleuronectiformes,Scophthalmidae,Psetta,,maxima,,1,1,0,0
+Raja asterias,105881,exact,Raja asterias,accepted,105881,Raja asterias,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,,asterias,,1,0,0,0
+Raja clavata,105883,exact,Raja clavata,accepted,105883,Raja clavata,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,,clavata,,1,0,0,0
+Raja miraletus,105886,exact,Raja miraletus,accepted,105886,Raja miraletus,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,,miraletus,,1,1,0,0
+Raja montagui,105887,exact,Raja montagui,accepted,105887,Raja montagui,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,,montagui,,1,0,0,0
+Raja polystigma,105888,exact,Raja polystigma,accepted,105888,Raja polystigma,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,,polystigma,,1,0,0,0
+Raja undulata,105891,exact,Raja undulata,accepted,105891,Raja undulata,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,,undulata,,1,0,0,0
+Rajella fyllae,105894,exact,Rajella fyllae,accepted,105894,Rajella fyllae,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Rajella,,fyllae,,1,0,0,0
+Rhinochimaera atlantica,105830,exact,Rhinochimaera atlantica,accepted,105830,Rhinochimaera atlantica,Animalia,Chordata,Holocephali,Chimaeriformes,Rhinochimaeridae,Rhinochimaera,,atlantica,,1,0,0,0
+Rostroraja alba,105896,exact,Rostroraja alba,accepted,105896,Rostroraja alba,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,Rostroraja,,alba,,1,0,0,0
+Salmo salar,127186,exact,Salmo salar,accepted,127186,Salmo salar,Animalia,Chordata,Teleostei,Salmoniformes,Salmonidae,Salmo,,salar,,1,1,1,0
+Salmo trutta,127187,exact,Salmo trutta,accepted,127187,Salmo trutta,Animalia,Chordata,Teleostei,Salmoniformes,Salmonidae,Salmo,,trutta,,1,1,1,0
+Sander lucioperca,151308,exact,Sander lucioperca,accepted,151308,Sander lucioperca,Animalia,Chordata,Teleostei,Perciformes,Percidae,Sander,,lucioperca,,0,1,1,0
+Sarda sarda,127021,exact,Sarda sarda,accepted,127021,Sarda sarda,Animalia,Chordata,Teleostei,Scombriformes,Scombridae,Sarda,,sarda,,1,1,0,0
+Sardina pilchardus,126421,exact,Sardina pilchardus,accepted,126421,Sardina pilchardus,Animalia,Chordata,Teleostei,Clupeiformes,Alosidae,Sardina,,pilchardus,,1,1,1,0
+Sarpa salpa,127064,exact,Sarpa salpa,accepted,127064,Sarpa salpa,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Sarpa,,salpa,,1,1,0,0
+Sciaena umbra,127010,exact,Sciaena umbra,accepted,127010,Sciaena umbra,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sciaenidae,Sciaena,,umbra,,1,1,0,0
+Scomber colias,151174,exact,Scomber colias,accepted,151174,Scomber colias,Animalia,Chordata,Teleostei,Scombriformes,Scombridae,Scomber,,colias,,1,1,0,0
+Scomber scombrus,127023,exact,Scomber scombrus,accepted,127023,Scomber scombrus,Animalia,Chordata,Teleostei,Scombriformes,Scombridae,Scomber,,scombrus,,1,1,0,0
+Scophthalmus maximus,127149,exact,Scophthalmus maximus,accepted,127149,Scophthalmus maximus,Animalia,Chordata,Teleostei,Pleuronectiformes,Scophthalmidae,Scophthalmus,,maximus,,1,1,0,0
+Scophthalmus maximus,127149,exact,Scophthalmus maximus,accepted,127149,Scophthalmus maximus,Animalia,Chordata,Teleostei,Pleuronectiformes,Scophthalmidae,Scophthalmus,,maximus,,1,1,0,0
+Scophthalmus rhombus,127150,exact,Scophthalmus rhombus,accepted,127150,Scophthalmus rhombus,Animalia,Chordata,Teleostei,Pleuronectiformes,Scophthalmidae,Scophthalmus,,rhombus,,1,0,0,0
+Scorpaena loppei,127244,exact,Scorpaena loppei,accepted,127244,Scorpaena loppei,Animalia,Chordata,Teleostei,Perciformes,Scorpaenidae,Scorpaena,,loppei,,1,0,0,0
+Scorpaena notata,127246,exact,Scorpaena notata,accepted,127246,Scorpaena notata,Animalia,Chordata,Teleostei,Perciformes,Scorpaenidae,Scorpaena,,notata,,1,0,0,0
+Scorpaena porcus,127247,exact,Scorpaena porcus,accepted,127247,Scorpaena porcus,Animalia,Chordata,Teleostei,Perciformes,Scorpaenidae,Scorpaena,,porcus,,1,0,0,0
+Scorpaena scrofa,127248,exact,Scorpaena scrofa,accepted,127248,Scorpaena scrofa,Animalia,Chordata,Teleostei,Perciformes,Scorpaenidae,Scorpaena,,scrofa,,1,1,0,0
+Scyliorhinus canicula,105814,exact,Scyliorhinus canicula,accepted,105814,Scyliorhinus canicula,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,,canicula,,1,0,0,0
+Scyliorhinus stellaris,105815,exact,Scyliorhinus stellaris,accepted,105815,Scyliorhinus stellaris,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,,stellaris,,1,0,0,0
+Scymnodon ringens,105918,exact,Scymnodon ringens,accepted,105918,Scymnodon ringens,Animalia,Chordata,Elasmobranchii,Squaliformes,Somniosidae,Scymnodon,,ringens,,1,0,0,0
+Sensitive Fish,,,,,,,,,,,,,,,,,,,
+Serranus cabrilla,127041,exact,Serranus cabrilla,accepted,127041,Serranus cabrilla,Animalia,Chordata,Teleostei,Perciformes,Serranidae,Serranus,,cabrilla,,1,0,0,0
+Serranus hepatus,127042,exact,Serranus hepatus,accepted,127042,Serranus hepatus,Animalia,Chordata,Teleostei,Perciformes,Serranidae,Serranus,,hepatus,,1,0,0,0
+Solea solea,127160,exact,Solea solea,accepted,127160,Solea solea,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Solea,,solea,,1,1,0,0
+Solea solea,127160,exact,Solea solea,accepted,127160,Solea solea,Animalia,Chordata,Teleostei,Pleuronectiformes,Soleidae,Solea,,solea,,1,1,0,0
+Sphyrna zygaena,105819,exact,Sphyrna zygaena,accepted,105819,Sphyrna zygaena,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Sphyrnidae,Sphyrna,,zygaena,,1,1,0,0
+Spicara flexuosa,302566,exact,Spicara flexuosa,misspelling - incorrect original spelling,1577318,Spicara flexuosum,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Spicara,,flexuosa,,1,0,0,0
+Spicara maena,126828,exact,Spicara maena,accepted,126828,Spicara maena,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Spicara,,maena,,1,0,0,0
+Spondyliosoma cantharus,127066,exact,Spondyliosoma cantharus,accepted,127066,Spondyliosoma cantharus,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Sparidae,Spondyliosoma,,cantharus,,1,0,0,0
+Sprattus sprattus,126425,exact,Sprattus sprattus,accepted,126425,Sprattus sprattus,Animalia,Chordata,Teleostei,Clupeiformes,Clupeidae,Sprattus,,sprattus,,1,1,0,0
+Squalus acanthias,105923,exact,Squalus acanthias,accepted,105923,Squalus acanthias,Animalia,Chordata,Elasmobranchii,Squaliformes,Squalidae,Squalus,,acanthias,,1,1,0,0
+Squalus blainville,105924,exact,Squalus blainville,accepted,105924,Squalus blainville,Animalia,Chordata,Elasmobranchii,Squaliformes,Squalidae,Squalus,,blainville,,1,1,0,0
+Squatina squatina,105928,exact,Squatina squatina,accepted,105928,Squatina squatina,Animalia,Chordata,Elasmobranchii,Squatiniformes,Squatinidae,Squatina,,squatina,,1,1,0,0
+Symphodus cinereus,273567,exact,Symphodus cinereus,accepted,273567,Symphodus cinereus,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Labridae,Symphodus,,cinereus,,1,1,0,0
+Symphodus tinca,273575,exact,Symphodus tinca,accepted,273575,Symphodus tinca,Animalia,Chordata,Teleostei,Eupercaria incertae sedis,Labridae,Symphodus,,tinca,,1,1,0,0
+Symphurus nigrescens,127134,exact,Symphurus nigrescens,accepted,127134,Symphurus nigrescens,Animalia,Chordata,Teleostei,Pleuronectiformes,Cynoglossidae,Symphurus,,nigrescens,,1,0,0,0
+Thunnus alalunga,127026,exact,Thunnus alalunga,accepted,127026,Thunnus alalunga,Animalia,Chordata,Teleostei,Scombriformes,Scombridae,Thunnus,,alalunga,,1,0,0,0
+Thunnus thynnus,127029,exact,Thunnus thynnus,accepted,127029,Thunnus thynnus,Animalia,Chordata,Teleostei,Scombriformes,Scombridae,Thunnus,,thynnus,,1,1,0,0
+Thymallus thymallus,154375,exact,Thymallus thymallus,accepted,154375,Thymallus thymallus,Animalia,Chordata,Teleostei,Salmoniformes,Salmonidae,Thymallus,,thymallus,,0,1,1,0
+Torpedo marmorata,271684,exact,Torpedo marmorata,accepted,271684,Torpedo marmorata,Animalia,Chordata,Elasmobranchii,Torpediniformes,Torpedinidae,Torpedo,,marmorata,,1,1,0,0
+Trachinus draco,127082,exact,Trachinus draco,accepted,127082,Trachinus draco,Animalia,Chordata,Teleostei,Perciformes,Trachinidae,Trachinus,,draco,,1,0,0,0
+Trachurus mediterraneus,126820,exact,Trachurus mediterraneus,accepted,126820,Trachurus mediterraneus,Animalia,Chordata,Teleostei,Carangiformes,Carangidae,Trachurus,,mediterraneus,,1,1,0,0
+Trachurus picturatus,126821,exact,Trachurus picturatus,accepted,126821,Trachurus picturatus,Animalia,Chordata,Teleostei,Carangiformes,Carangidae,Trachurus,,picturatus,,1,0,0,0
+Trachurus trachurus,126822,exact,Trachurus trachurus,accepted,126822,Trachurus trachurus,Animalia,Chordata,Teleostei,Carangiformes,Carangidae,Trachurus,,trachurus,,1,0,0,0
+Trachyrincus scabrus,126482,exact,Trachyrincus scabrus,accepted,126482,Trachyrincus scabrus,Animalia,Chordata,Teleostei,Gadiformes,Macrouridae,Trachyrincus,,scabrus,,1,0,0,0
+Trachyscorpia cristulata,127256,exact,Trachyscorpia cristulata,accepted,127256,Trachyscorpia cristulata,Animalia,Chordata,Teleostei,Perciformes,Sebastidae,Trachyscorpia,,cristulata,,1,0,0,0
+Trigla lyra,127266,exact,Trigla lyra,accepted,127266,Trigla lyra,Animalia,Chordata,Teleostei,Perciformes,Triglidae,Trigla,,lyra,,1,0,0,0
+Trisopterus esmarkii,126444,exact,Trisopterus esmarkii,accepted,126444,Trisopterus esmarkii,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Trisopterus,,esmarkii,,1,0,0,0
+Trisopterus luscus,126445,exact,Trisopterus luscus,accepted,126445,Trisopterus luscus,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Trisopterus,,luscus,,1,1,0,0
+Trisopterus minutus,126446,exact,Trisopterus minutus,accepted,126446,Trisopterus minutus,Animalia,Chordata,Teleostei,Gadiformes,Gadidae,Trisopterus,,minutus,,1,0,0,0
+Vimba vimba,283150,exact,Vimba vimba,accepted,283150,Vimba vimba,Animalia,Chordata,Teleostei,Cypriniformes,Cyprinidae,Vimba,,vimba,,0,1,1,0
+Xiphias gladius,127094,exact,Xiphias gladius,accepted,127094,Xiphias gladius,Animalia,Chordata,Teleostei,Carangiformes,Xiphiidae,Xiphias,,gladius,,1,0,0,0
+Zeus faber,127427,exact,Zeus faber,accepted,127427,Zeus faber,Animalia,Chordata,Teleostei,Zeiformes,Zeidae,Zeus,,faber,,1,1,0,0
+Zoarces viviparus,127123,exact,Zoarces viviparus,accepted,127123,Zoarces viviparus,Animalia,Chordata,Teleostei,Perciformes,Zoarcidae,Zoarces,,viviparus,,1,1,0,0
+Balaenoptera acutorostrata,137087,exact,Balaenoptera acutorostrata,accepted,137087,Balaenoptera acutorostrata,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera,,acutorostrata,,1,,,0
+Balaenoptera borealis,137088,exact,Balaenoptera borealis,accepted,137088,Balaenoptera borealis,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera,,borealis,,1,,,0
+Balaenoptera edeni,137089,exact,Balaenoptera edeni,accepted,137089,Balaenoptera edeni,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera,,edeni,,1,,,0
+Balaenoptera musculus,137090,exact,Balaenoptera musculus,accepted,137090,Balaenoptera musculus,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera,,musculus,,1,,,0
+Balaenoptera physalus,137091,exact,Balaenoptera physalus,accepted,137091,Balaenoptera physalus,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera,,physalus,,1,,,0
+Delphinus delphis,137094,exact,Delphinus delphis,accepted,137094,Delphinus delphis,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Delphinus,,delphis,,1,,,0
+Globicephala macrorhynchus,137096,exact,Globicephala macrorhynchus,accepted,137096,Globicephala macrorhynchus,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Globicephala,,macrorhynchus,,1,,,0
+Globicephala melas,137097,exact,Globicephala melas,accepted,137097,Globicephala melas,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Globicephala,,melas,,1,,,0
+Grampus griseus,137098,exact,Grampus griseus,accepted,137098,Grampus griseus,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Grampus,,griseus,,1,,,0
+Halichoerus grypus,137080,exact,Halichoerus grypus,accepted,137080,Halichoerus grypus,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,,grypus,,1,,,
+Halichoerus grypus,137080,exact,Halichoerus grypus,accepted,137080,Halichoerus grypus,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,,grypus,,1,,,
+Hyperoodon ampullatus,343899,exact,Hyperoodon ampullatus,accepted,343899,Hyperoodon ampullatus,Animalia,Chordata,Mammalia,Cetartiodactyla,Ziphiidae,Hyperoodon,,ampullatus,,1,,,0
+Kogia breviceps,137113,exact,Kogia breviceps,accepted,137113,Kogia breviceps,Animalia,Chordata,Mammalia,Cetartiodactyla,Kogiidae,Kogia,,breviceps,,1,0,0,0
+Lagerorhynchus albirostris,,,,,,,,,,,,,,,,,,,
+Megaptera novaeangliae,137092,exact,Megaptera novaeangliae,accepted,137092,Megaptera novaeangliae,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Megaptera,,novaeangliae,,1,,,0
+Mesoplodon bidens,137121,exact,Mesoplodon bidens,accepted,137121,Mesoplodon bidens,Animalia,Chordata,Mammalia,Cetartiodactyla,Ziphiidae,Mesoplodon,,bidens,,1,,,0
+Mesoplodon europaeus,137123,exact,Mesoplodon europaeus,accepted,137123,Mesoplodon europaeus,Animalia,Chordata,Mammalia,Cetartiodactyla,Ziphiidae,Mesoplodon,,europaeus,,1,,,0
+Mesoplodon mirus,137126,exact,Mesoplodon mirus,accepted,137126,Mesoplodon mirus,Animalia,Chordata,Mammalia,Cetartiodactyla,Ziphiidae,Mesoplodon,,mirus,,1,0,0,0
+Monachus monachus,137081,exact,Monachus monachus,accepted,137081,Monachus monachus,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Monachus,,monachus,,1,,,
+Orcinus orca,137102,exact,Orcinus orca,accepted,137102,Orcinus orca,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Orcinus,,orca,,1,,,0
+Phoca hispida,137083,exact,Phoca hispida,unaccepted,159021,Pusa hispida,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,,hispida,,1,,,
+Phoca vitulina,137084,exact,Phoca vitulina,accepted,137084,Phoca vitulina,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,,vitulina,,1,1,1,
+Phocoena phocoena,137117,exact,Phocoena phocoena,accepted,137117,Phocoena phocoena,Animalia,Chordata,Mammalia,Cetartiodactyla,Phocoenidae,Phocoena,,phocoena,,1,1,,0
+Phocoena phocoena,137117,exact,Phocoena phocoena,accepted,137117,Phocoena phocoena,Animalia,Chordata,Mammalia,Cetartiodactyla,Phocoenidae,Phocoena,,phocoena,,1,1,,0
+Physeter catodon,137118,exact,Physeter catodon,unaccepted,137119,Physeter macrocephalus,Animalia,Chordata,Mammalia,Cetartiodactyla,Physeteridae,Physeter,,catodon,,1,,,0
+Physeter macrocephalus,137119,exact,Physeter macrocephalus,accepted,137119,Physeter macrocephalus,Animalia,Chordata,Mammalia,Cetartiodactyla,Physeteridae,Physeter,,macrocephalus,,1,,,0
+Pseudorca crassidens,137104,exact,Pseudorca crassidens,accepted,137104,Pseudorca crassidens,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Pseudorca,,crassidens,,1,,,0
+Pusa hispida,159021,exact,Pusa hispida,accepted,159021,Pusa hispida,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pusa,,hispida,,1,0,0,0
+Stenella coeruleoalba,137107,exact,Stenella coeruleoalba,accepted,137107,Stenella coeruleoalba,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Stenella,,coeruleoalba,,1,,,0
+Stenella frontalis,137108,exact,Stenella frontalis,accepted,137108,Stenella frontalis,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Stenella,,frontalis,,1,,,0
+Steno bredanensis,137110,exact,Steno bredanensis,accepted,137110,Steno bredanensis,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Steno,,bredanensis,,1,,,0
+Tursiops truncatus,137111,exact,Tursiops truncatus,accepted,137111,Tursiops truncatus,Animalia,Chordata,Mammalia,Cetartiodactyla,Delphinidae,Tursiops,,truncatus,,1,1,,0
+Ziphius cavirostris,137127,exact,Ziphius cavirostris,accepted,137127,Ziphius cavirostris,Animalia,Chordata,Mammalia,Cetartiodactyla,Ziphiidae,Ziphius,,cavirostris,,1,,,0

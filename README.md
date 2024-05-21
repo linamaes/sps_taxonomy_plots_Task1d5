@@ -1,5 +1,5 @@
 ## LIST OF SPECIES RELEVANT TO EU POLICY
-## B-Cubed Project - Aligment of B3 with European Biodiversity Initiatives (Task 1.5)
+## B-Cubed Project - Alignment of B3 with European Biodiversity Initiatives (Task 1.5)
 ### Led by: Martin-Luther-University Halle-Wittenberg (MLU) - German Centre for Integrative Biodiversity Research (iDiv) 
 Estupinan-Suarez, L., Fernandez, M., Pereira, H., Groom, Q., et al. 
 May 2024.

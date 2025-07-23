@@ -1,7 +1,7 @@
 ## LIST OF SPECIES RELEVANT TO EU POLICY
 ## B-Cubed Project - Alignment of B3 with European Biodiversity Initiatives (Task 1.5)
 ### Led by: Martin-Luther-University Halle-Wittenberg (MLU) - German Centre for Integrative Biodiversity Research (iDiv) 
-Estupinan-Suarez, L., Fernandez, M., Pereira, H., Groom, Q., et al. 
+Estupinan-Suarez, L. M.
 May 2024.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -26,10 +26,11 @@ Table 1. EU-listed species analysed and data sources.
 | Policy                                            | url/ doi | Taxonomy | Format |
 |---------------------------------------------------|----------|----------|--------|
 | Bird Directive Annex I                            |https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147 | No       | .pdf   |
-| Habitats Directive Article 17                     |https://cdr.eionet.europa.eu/help/habitats_art17/Reporting2019/Article%2017%20checklist_update20200623.xlsx | No       | .xlsx  |
+| Habitats Directive Article 17                     |https://cdr.eionet.europa.eu/help/habitats_art17/Reporting2025/Art%2017%20checklist_v1.3_complete_2019-2024.xlsx | No       | .xlsx  |
 | Marine Strategy Framework Directive Descriptor 1  |https://doi.org/10.2760/27700 | No       | .xlsx  |
 | Invasive Alien Species of  Union Concern          |https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02016R1141-20220802&from=EN | No       | .pdf   |
 | Pollinators Initiative                            |https://doi.org/10.1111/icad.12680| Yes      | .xlsx |
 | European Red List Species                         |https://sdi.eea.europa.eu/data/9c785326-8859-4abd-aad6-c8d35b619ff9 | Yes      | .csv  |
 
+This list has been created for, and is used in, the Biodiversity Building Blocks for Policy (B3) project deliverable, 'D1.5 Alignment of B3 with European Biodiversity Initiatives: Insights from EU Policy' (Estupinan-Suarez, Fernandez, M., Pereira, H., ... Groom, Q., et al. 2024) available at https://b-cubed.eu/library. It was updated in May 2025 with the latest taxonomic information from Article 17 of the Habitats Directive. B3 receives funding from the European Union's Horizon Europe Research and Innovation Programme (ID No 101059592)
 

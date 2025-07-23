@@ -3,6 +3,7 @@
 ### Led by: Martin-Luther-University Halle-Wittenberg (MLU) - German Centre for Integrative Biodiversity Research (iDiv) 
 Estupinan-Suarez, L. M.
 May 2024.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16370445.svg)](https://doi.org/10.5281/zenodo.16370445)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 

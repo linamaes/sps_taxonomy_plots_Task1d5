@@ -29,9 +29,13 @@ Table 1. EU-listed species analysed and data sources.
 | Bird Directive Annex I                            |https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147 | No       | .pdf   |
 | Habitats Directive Article 17                     |https://cdr.eionet.europa.eu/help/habitats_art17/Reporting2025/Art%2017%20checklist_v1.3_complete_2019-2024.xlsx | No       | .xlsx  |
 | Marine Strategy Framework Directive Descriptor 1  |https://doi.org/10.2760/27700 | No       | .xlsx  |
-| Invasive Alien Species of  Union Concern          |https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02016R1141-20220802&from=EN | No       | .pdf   |
+| Invasive Alien Species of  Union Concern (updated 2025)          |https://eur-lex.europa.eu/eli/reg_impl/2025/1422/oj | No       | .pdf   |
 | Pollinators Initiative                            |https://doi.org/10.1111/icad.12680| Yes      | .xlsx |
 | European Red List Species                         |https://sdi.eea.europa.eu/data/9c785326-8859-4abd-aad6-c8d35b619ff9 | Yes      | .csv  |
 
-This list has been created for, and is used in, the Biodiversity Building Blocks for Policy (B3) project deliverable, 'D1.5 Alignment of B3 with European Biodiversity Initiatives: Insights from EU Policy' (Estupinan-Suarez, Fernandez, M., Pereira, H., ... Groom, Q., et al. 2024) available at https://b-cubed.eu/library. It was updated in May 2025 with the latest taxonomic information from Article 17 of the Habitats Directive. B3 receives funding from the European Union's Horizon Europe Research and Innovation Programme (ID No 101059592)
+This list has been created for, and is used in, the Biodiversity Building Blocks for Policy (B3) project deliverable, 'D1.5 Alignment of B3 with European Biodiversity Initiatives: Insights from EU Policy' (Estupinan-Suarez, Fernandez, M., Pereira, H., ... Groom, Q., et al. 2024) available at https://b-cubed.eu/library. It has been updated as follows:
+ * May 2025: With the latest taxonomic information from Article 17 of the Habitats Directive.
+ * February 2026: For the IAS of Union Concern, 24 new species were included, 2 are deferred in order to give Member States time for adoption (i.e., '_Neogale vison_ (Schreber, 1777)', '_Castor canadensis_ Kuhl, 1820'), and a few taxonomic names were updated.  
+
+B3 receives funding from the European Union's Horizon Europe Research and Innovation Programme (ID No 101059592).
 
